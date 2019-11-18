@@ -1,0 +1,2 @@
+http://jiangyou.applinzi.com
+git clone https://git.sinacloud.com/jiangyou
